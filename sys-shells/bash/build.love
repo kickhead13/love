@@ -1,0 +1,5 @@
+P!sys-shells
+G!https://github.com/bminor/bash.git
+N!bash
+C!./configure
+C!make
