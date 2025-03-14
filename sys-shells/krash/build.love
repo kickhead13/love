@@ -1,5 +1,5 @@
 P!sys-shells
 G!https://github.com/kickhead13/krash.git
 N!krash
-E!gcc -o ./target/krash ./src/krash.c
-E!mv ./target/krash /usr/bin/krash
+C!gcc -o ./target/krash ./src/krash.c
+I!mv ./target/krash /usr/bin/krash
